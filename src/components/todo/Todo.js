@@ -118,7 +118,6 @@ const Todo = () => {
             >
               <span>CHECK LIST</span>
             </button>
-            C
           </div>
         </div>
       </div>
